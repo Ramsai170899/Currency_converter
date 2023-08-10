@@ -27,7 +27,9 @@ Make sure you have the following installed:
 - pip install httpx
 - python currency_converter.py
 
-The GUI window will appear. Select the "From Currency" and "To Currency" using dropdown menus, enter the amount, and click the "Convert" button. The converted amount will be displayed below.
+The GUI window will appear. 
+Select the "From Currency" and "To Currency" using dropdown menus, enter the amount, and click the "Convert" button. 
+The converted amount will be displayed below.
 
 Contributing
 Contributions are welcome! If you find any issues, have suggestions, or want to add enhancements, feel free to open an issue or submit a pull request.
