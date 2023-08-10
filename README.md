@@ -13,8 +13,8 @@ Welcome to the Currency Converter project! This Python application allows you to
 <table>
   <tr>
     <td><img src="https://github.com/Ramsai170899/Currency_converter/blob/main/ip.png" alt="Screenshot 1" width="300"/></td>
-    <td><img src="https://github.com/Ramsai170899/Currency_converter/blob/main/ip.png" alt="Screenshot 2" width="300"/></td>
-    <td><img src="https://github.com/Ramsai170899/Currency_converter/blob/main/ip.png" alt="Screenshot 3" width="300"/></td>
+    <td><img src="https://github.com/Ramsai170899/Currency_converter/blob/main/ip2.png" alt="Screenshot 2" width="300"/></td>
+    <td><img src="https://github.com/Ramsai170899/Currency_converter/blob/main/op.png" alt="Screenshot 3" width="300"/></td>
   </tr>
 </table>
 
